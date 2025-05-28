@@ -1,0 +1,25 @@
+linux BASICS:
+
+TO CREATE FIELS 
+
+
+touch madhu 
+touch <fname>
+touch file1 file2 file3 ...file-n
+
+TO CREATE DIRECTORY:
+mkdir <dir>
+mkdir dir1 dir2 dir3 
+pwd
+    - /c/Users/Dell/Desktop/27may25
+Delete 	
+rm -rf fname/dirname
+
+TO view:
+ls
+ll
+ls -lrth 
+ls -la 
+
+cd dirname
+cd ..
