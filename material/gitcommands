@@ -1,0 +1,112 @@
+                                                                 27MAY25:- LINUX BASICS:
+
+
+DAY -0 
+26 MAY 2025:
+
+DevOps Evolution
+- Waterfall model 
+- Agile model
+- DevOps Approach
+- Cloud Intro 
+
+=============================================================
+
+27MAY25:
+linux BASICS:
+
+TO CREATE FIELS 
+
+
+touch madhu 
+touch <fname>
+touch file1 file2 file3 ...file-n
+
+TO CREATE DIRECTORY:
+mkdir <dir>
+mkdir dir1 dir2 dir3 
+pwd
+    - /c/Users/Dell/Desktop/27may25
+Delete 	
+rm -rf fname/dirname
+
+TO view:
+ls
+ll
+ls -lrth 
+ls -la 
+
+cd dirname
+cd ..
+=============================================================
+clear 
+ctrl + L 
+
+
+cat <fname>
+history
+=====================================
+date : 28 may 25
+
+git init  ---> empty repo 
+
+
+git config --global user.name "Madhu Kiran"
+git config --global user.email "madhukiran@gmail.com"
+
+touch file1
+
+git status -- red (untr…)
+
+
+29 MAY 25
+
+Scenarios Covered in class :
+
+
+ADDING THE FILE 
+MODIFING THE FILE 
+DELETING THE FILE 
+==================================
+
+Working as a Team in Project :
+
+git clone https://github.com/devopstraininghub/b16projectrepo.git
+
+ls
+cd b16projectrepo
+touch Ramani 
+git add .
+git status
+git commit -m "Ramani commit" 
+git log
+git push 
+=========================
+git pull --rebase 
+git push 
+================================
+GIT Merging
+GIT Branching
+GIT 
+
+git branch 
+git brnach
+git checkout <br.name>
+-- git checkout main/master 
+git merge <br.name>
+
+git branch -d <br.name>
+
+git branch -D <br.name>
+
+git push https://github.com/devopstraininghub/b16projectrepo.git
+
+git push origin
+
+
+git cherry-pick
+git fork
+git filters
+git branch protection
+
+
